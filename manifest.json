@@ -1,0 +1,16 @@
+{
+  "name": "HM Finan Pro",
+  "short_name": "HM Finan",
+  "description": "Sistema de Gestão Financeira e Agenda Inteligente",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#0071e3",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/552/552791.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
